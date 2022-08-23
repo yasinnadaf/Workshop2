@@ -1,7 +1,6 @@
 package com.bridgelabz.workshop2;
 
 import java.util.HashMap;
-import java.util.Scanner;
 
 public class AddressBookMain {
     static final String MY_ADDRESSBOOK = "my address book";
